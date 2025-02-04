@@ -1,4 +1,4 @@
-# MLOps Final Project: Exploratory Data Analysis & Experiment Tracking
+# MLOps Project: Exploratory Data Analysis & Experiment Tracking
 
 This project demonstrates the application of **DataPrep** for automated Exploratory Data Analysis (EDA) and **Neptune.ai** for experiment tracking in machine learning workflows. The project utilizes the Titanic dataset to perform data analysis and track experiments, visualizations, and results.
 
